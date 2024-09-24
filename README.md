@@ -6,8 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoon412&show_icons=true&theme=onedark)&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sam7073)](https://solved.ac/sam7073)
 
-- [**👨‍💻 Tech Blog**](https://velog.io/@hoooon/posts)
-- [**👨‍💻 Notion**](https://hoonrae.notion.site/2562fefd5ec94bea84bd055c4ccbb172)
+<!-- - [**👨‍💻 Tech Blog**](https://velog.io/@hoooon/posts) -->
+<!-- - [**👨‍💻 Notion**](https://hoonrae.notion.site/2562fefd5ec94bea84bd055c4ccbb172) -->
 
 
 ### Interest 🌱
